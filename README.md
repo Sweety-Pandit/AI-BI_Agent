@@ -1,1 +1,1 @@
-# AI-BI_Agent
+# AI Business Intelligence Agent
